@@ -1,4 +1,4 @@
-﻿namespace JwtAuthorization.DB.Models
+﻿namespace JwtAuthorization.BL.Models
 {
     public class AccessToken
     {

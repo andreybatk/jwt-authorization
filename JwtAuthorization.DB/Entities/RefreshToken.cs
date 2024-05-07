@@ -1,4 +1,4 @@
-﻿namespace JwtAuthorization.DB.Models
+﻿namespace JwtAuthorization.DB.Entities
 {
     public class RefreshToken
     {

@@ -15,8 +15,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\JwtAuthorization.Core\JwtAuthorization.Core.csproj" />
-  </ItemGroup>
-
 </Project>
